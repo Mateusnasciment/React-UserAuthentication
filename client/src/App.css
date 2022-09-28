@@ -1,0 +1,10 @@
+.div1 { 
+  background: fixed;
+  text-align  : center;
+  border-spacing: 1000px;
+}
+.App {
+  border-radius: 10px;
+  background-image: url("https://i.pinimg.com/originals/a5/36/91/a5369100d3a1e9c7ec4850bf3df577cd.gif");
+  inset-block-start: 100px;
+}
